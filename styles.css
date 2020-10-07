@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bloc-1 {
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+}
+.bloc-2 {
+    width: 50%;
+    height: 100%;
+    background-color: red;
+    border: 20px solid black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    box-sizing: border-box;
+}
+.bloc-3 {
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    border: 20px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    box-sizing: border-box;
+}
+.bloc-4{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+}
+.bloc-5 {
+    width: 33.3333333%;
+    height: 100%;
+    background-color: white;
+    border: 10px solid black;
+    border-left: 20px solid black;    
+    box-sizing: border-box;
+}
+.bloc-6 {
+    width: 33.333333%;
+    height: 100%;
+    background-color: white;
+    border: 10px solid black;
+    box-sizing: border-box;
+}
+.bloc-7 {
+    width: 33.3333333%;
+    height: 100%;
+    background-color: yellow;
+    border: 10px solid black;
+    border-right: 20px solid black;
+    box-sizing: border-box;
+}
+.bloc-8 {
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+}
+.bloc-9 {
+    width: 25%;
+    height: 100%;
+    background-color: white;
+    border: 10px solid black;
+    border-left: 20px solid black;    
+    border-bottom: 20px solid black;    
+    box-sizing: border-box;
+}
+.bloc-10 {
+    width: 25%;
+    height: 100%;
+    background-color: darkblue;
+    border: 10px solid black;  
+    border-bottom: 20px solid black;    
+    box-sizing: border-box;
+}
+.bloc-11 {
+    width: 25%;
+    height: 100%;
+    background-color: white;
+    border: 10px solid black;  
+    border-bottom: 20px solid black;    
+    box-sizing: border-box;
+}
+.bloc-12 {
+    width: 25%;
+    height: 100%;
+    background-color: white;
+    border: 10px solid black;  
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;    
+    box-sizing: border-box;
+}
